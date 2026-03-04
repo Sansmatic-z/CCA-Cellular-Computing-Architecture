@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Cellular Computing Architecture (CCA)"
+message: "If you use this software, please cite it using these metadata"
+type: software
+authors:
+  - family-names: Mitra
+    given-names: Raj
+    alias: math-logic-test
+identifiers:
+  - type: url
+    value: "https://github.com/math-logic-test/CCA-Cellular-Computing-Architecture"
+repository-code: "https://github.com/math-logic-test/CCA-Cellular-Computing-Architecture"
+abstract: "A new computing paradigm where HTML is used as a universal runtime for self-contained, parallel, cellular computation. Every .ccd file is its own runtime, parser, and execution environment."
+keywords:
+  - cellular-computing
+  - html-runtime
+  - parallel-execution
+  - programming-language
+  - zero-install
+license: AGPL-3.0
+date-released: "2026-03-05"
