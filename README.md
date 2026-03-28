@@ -1,5 +1,5 @@
-# Cellular Computing Architecture (CCA) & CCD
-
+# Cellular Computing Architecture (CCA) & CCD 
+This Project Also have another Name: HDA - Hive Data Architecture
 > 🔄 **Note:** This project was previously developed under the names **Honeycomb Cell System (HCS)** and **Honeycomb Data Architecture (HDA)**. See [REBRANDING.md](./REBRANDING.md) for details on the transition to **CCA/CCD**.
 
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue.svg)
